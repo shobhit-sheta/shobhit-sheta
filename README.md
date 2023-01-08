@@ -85,7 +85,8 @@ I'm Creative Web Developer. I like experimenting with new technologies, building
 
 <br>
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shobhit-sheta&theme=blueberry&background=003140&stroke=6E6E6E&ring=0088B0&currStreakNum=FFFFFF&fire=FFFFFF&sideNums=B8B8B8&currStreakLabel=CFCFCF&sideLabels=BABABA&dates=007BA0)](https://git.io/streak-stats)
+  
 <br>
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/shobhit-sheta?cardType=level&Background=003140&Ring=0088B0&Title=AEAEAEDC&Text=D1D1D1)](https://git.io/awesome-stats-card)
