@@ -4,7 +4,6 @@
   
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shobhit-sheta&label=Profile%20views&color=0e75b6&style=flat" alt="shobhit-sheta" /> </p>
 
 I'm Creative Web Developer. I like experimenting with new technologies, building small projects, and occassionally joining hackathons. I enjoy turning complex problems into simple, beautiful and intuitive designs.
 
