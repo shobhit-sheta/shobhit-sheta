@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=ubuntu&weight=900&size=30&duration=3000&pause=1000&color=3D698E&center=true&vCenter=true&width=435&lines=Hola!+It's+Shobhit+Sheta+;I+am+a...;UI+and+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=ubuntu&weight=900&size=30&duration=3000&pause=1000&color=3D698E&center=true&vCenter=true&width=435&lines=Hola!+It's+Shobhit+Sheta+;I+am+a...;UI/UX+and+Web+Developer)](https://git.io/typing-svg)
   
 </div>
 
